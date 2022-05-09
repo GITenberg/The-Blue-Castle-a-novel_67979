@@ -1,5 +1,8 @@
 _repo: The-Blue-Castle-a-novel_67979
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67979-h/images/castle_cover.jpg
 creator:
   author:
     agent_name: Montgomery, L. M. (Lucy Maud)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67979#The-Blue-Castle-a-novel
 gutenberg_issued: '2022-05-03'
 identifiers:
   gutenberg: '67979'
