@@ -1,0 +1,32 @@
+_repo: The-Blue-Castle-a-novel_67979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - MacDonald, Lucy Maud Montgomery
+    - Montgomery, Lucy Maud
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_issued: '2022-05-03'
+identifiers:
+  gutenberg: '67979'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/102009767
+pgterms:marc905: 20220413064028montgomery
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :Frederick A. Stokes company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Blue Castle: a novel'
+url: http://www.gutenberg.org/ebooks/67979
